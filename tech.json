@@ -1,0 +1,149 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-in-One",
+        "category": "All-in-One",
+        "price": 499.00,
+        "discountPrice": 450.99,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/d5mkq5x"
+      },
+      {
+        "id": 2,
+        "name": "MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-in-One",
+        "category": "All-in-One",
+        "price": 499.00,
+        "discountPrice": 470.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/JptffHj"
+      },
+      {
+        "id": 3,
+        "name": "MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-in-One",
+        "category": "All-in-One",
+        "price": 499.00,
+        "discountPrice": 475.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/SyM7cyx"
+      },
+      {
+        "id": 4,
+        "name": "MSI Pro 16 Flex-036AU 15.6 MULTITOUCH All-in-One",
+        "category": "All-in-One",
+        "price": 420.00,
+        "discountPrice": 370.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/2Z9jmj7"
+      },
+      {
+        "id": 5,
+        "name": "MSI GL Series Gaming Laptop",
+        "category": "Laptops",
+        "price": 480.00,
+        "discountPrice": 420.99,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/vDR7Pb1"
+      },
+      {
+        "id": 6,
+        "name": "MSI GE Series Gaming Laptop",
+        "category": "Laptops",
+        "price": 499.00,
+        "discountPrice": 470.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/LSvgrhM"
+      },
+      {
+        "id": 7,
+        "name": "MSI Nightblade Desktop",
+        "category": "Desktops",
+        "price": 400.00,
+        "discountPrice": 399.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/cxPvqH7"
+      },
+      {
+        "id": 8,
+        "name": "MSI Nightblade Desktop",
+        "category": "Desktops",
+        "price": 499.00,
+        "discountPrice": 470.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/zZ6fnZs"
+      },
+      {
+        "id": 9,
+        "name": "MSI Nightblade Desktop",
+        "category": "Desktops",
+        "price": 499.00,
+        "discountPrice": 450.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/cxPvqH7"
+      },
+      {
+        "id": 10,
+        "name": "MSI Nightblade Desktop",
+        "category": "Desktops",
+        "price": 499.00,
+        "discountPrice": 470.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/q5Fp553"
+      },
+      {
+        "id": 11,
+        "name": "MSI Nightblade Desktop",
+        "category": "Desktops",
+        "price": 499.00,
+        "discountPrice": 470.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/cxPvqH7"
+      },
+      {
+        "id": 12,
+        "name": "MSI Nightblade Desktop",
+        "category": "Desktops",
+        "price": 499.00,
+        "discountPrice": 470.00,
+        "currency": "USD",
+        "availability": "In stock",
+        "reviews": 4,
+        "rating": 4.5,
+        "thumbnail": "https://ibb.co.com/cbvLhKM"
+      }
+    ]
+  }
+  
